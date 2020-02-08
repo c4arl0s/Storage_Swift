@@ -1,7 +1,7 @@
 # Storing_ValuesIn_UserDefaultSystem
 
 1. [User Preferences]()
-    * [User Defaults]
+    * [User Defaults]()
 2. [Files]()
     * [File Manager]()
     * [URLs and Paths]()
